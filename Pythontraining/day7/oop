@@ -1,0 +1,28 @@
+Obj Oriented Programing
+
+python-structured+Obj Oriented Programing
+-----
+
+class
+obj
+inheritance
+polymorphism
+
+-----------------------
+employee----> john, scott, marry etc....
+Animal ----> Dog, Horse, Elephant  etc.....
+
+class ---> collection of variables(attributes)&methods(behavior)
+A class is blue print
+Logical entity
+Does not occupy space in the memory
+
+Obj---> obj is an instance of class
+physical entity
+occupy certain ammount space in the memory
+
+for one class, we can create multiple obj.
+Obj are independent
+
+method
+

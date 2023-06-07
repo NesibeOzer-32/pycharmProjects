@@ -1,0 +1,4 @@
+             List            Tuple            Set             Dictionary
+Mutable       yes             no              yes                yes
+ordered       yes             yes             no                 no
+indexed       yes             yes             no                 no
